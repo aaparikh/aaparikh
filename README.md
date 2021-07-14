@@ -3,7 +3,7 @@
 <!-- Here are some ideas to get you started: -->
 
 <h1 align="center">Hi 👋, I'm Atharva Parikh</h1>
-<p align="center"><img src="" height="auto" width="200" style="border-radius:50%"></p>
+<p align="center"><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></p>
 <h3 align="center">Upskilling | Open for opportunities</h3>
 
 
