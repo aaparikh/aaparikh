@@ -2,7 +2,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-<h1 align="center">Hi 👋, I'm Atharva Parikh</h1>
+# [Hi <img align="center" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Atharva Parikh](https://github.com/AtharvaParikh)
+
 <p align="center"><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></p>
 <h2 align="center">Upskilling | Open for opportunities</h2>
 
@@ -25,7 +26,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AtharvaParikh/count.svg" />
 </p>
-
+![counter](https://AtharvaParikh.m.pipedream.net)
 
 
 <h3 align="center">Connect with me:</h3>
