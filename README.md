@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on ML related projects especially involving Finance</h4>
 - 🤔 I’m looking for `help with fintech opportunities`
 - 💬 Ask me about anything you want to. I will try to help you to best of my ability</h4>
-- 📫 How to reach me: atharvaparikh07@gmail.com
+- 📫 How to reach me: aptahrairkvha@gmail.com
 - 😄 Pronouns: he/him/his
 - 📖 **Fun fact**: *The longest English word is 189,819 letters long*
 - <details>
