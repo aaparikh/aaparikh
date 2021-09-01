@@ -7,30 +7,25 @@
 <p align="center"><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></p>
 <h2 align="center">Upskilling | Open for opportunities</h2>
 
-
-
 - 💻 I’m currently working on `Sentiment Analysis` and `Finance projects`
-- 🌱 I’m currently learning `DSA, ML and Algo Trading`
-- 👯 I’m looking to collaborate on ML related projects especially involving Finance</h4>
-- 🤔 I’m looking for `help with fintech opportunities`
+- 🌱 I’m currently learning `DSA, ML and Flutter`
+- 👯 I’m looking to collaborate on ML related projects that solve real-world problems</h4>
+- 🤔 I’m looking for `team members for project collaboration`
 - 💬 Ask me about anything you want to. I will try to help you to best of my ability</h4>
 - 📫 How to reach me: aptahrairkvha@gmail.com
 - 😄 Pronouns: he/him/his
 - 📖 **Fun fact**: *The longest English word is 189,819 letters long*
-- <details>
-    <summary>📊 Github Stats</summary>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AtharvaParikh&show_icons=true&theme=vue" alt="Atharva Parikh | Stats" />
-  </details>
+
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaParikh&theme=vue" />
-<!-- github_dark  solarized_dark -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaParikh&theme=solarized" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AtharvaParikh/count.svg" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaParikh&theme=solarized" />
 </p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
