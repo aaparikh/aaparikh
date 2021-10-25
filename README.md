@@ -7,15 +7,15 @@
 <p align="center"><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></p>
 <h2 align="center">Upskilling | Open for opportunities</h2>
 <p align="center"><a href="https://www.twitter.com/aparikh0111"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/atharvaparikh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/stupidly_clever/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
-
-- 💻 I’m currently working on `Question Answering system`
-- 🌱 I’m currently learning `DSA`
-- 👯 I’m looking to collaborate on projects that solve real-world problems</h4>
-- 💬 Ask me about anything you want to. I will try to help you to best of my ability</h4>
-- 📫 How to reach me: aptahrairkvha@gmail.com
-- 😄 Pronouns: he/him/his
-- 📖 **Fun fact**: *The longest English word is 189,819 letters long*
-
+<ul>
+  <li><h4>💻 Currently working on - Question Answering systems</h4></li>
+  <li><h4>🌱 I’m currently learning DSA</h4></li>
+  <li><h4>👯 I’m looking to collaborate on projects that solve real-world problems</h4></li>
+  <li><h4>💬 Ask me about anything you want to. I will try to help you to best of my ability</h4></li>
+  <li><h4>📫 How to reach me: aptahrairkvha@gmail.com</h4></li>
+  <li><h4>😄 Pronouns: he/him/his</h4></li>
+  <li><h4>📖 <b>Fun fact</b>: <i>The longest English word is 189,819 letters long</i></h4></li>
+</ul>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=AtharvaParikh&show_icons=true&theme=blue-green" alt="GitHub Stats"></p>
 
