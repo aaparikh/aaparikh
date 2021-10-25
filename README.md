@@ -20,10 +20,18 @@
   <li><h4>😄 Pronouns: he/him/his</h4></li>
   <li><h4>📖 <b>Fun fact</b>: <i>The longest English word is 189,819 letters long</i></h4></li>
 </ul>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=AtharvaParikh&show_icons=true&theme=blue-green" alt="GitHub Stats"></p>
 
-[![Atharva's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaParikh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/aparikh0111"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=aparikh0111&amp;layout=normal&show_reply=off" alt="github-readme-twitter" width="350"></a></p>
+<table>
+  <tr>
+    <th><h3>GitHub Stats</h3></th>
+    <th><h3>Latest Tweets</h2></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AtharvaParikh&show_icons=true&theme=blue-green" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaParikh&theme=blue-green" alt="Atharva's Top Languages">
+    </td>
+    <td><a href="https://twitter.com/aparikh0111"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=aparikh0111&amp;layout=normal&show_reply=off" alt="github-readme-twitter" width="350"></td>
+  </tr>
+</table>
