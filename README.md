@@ -26,4 +26,4 @@
 [![Atharva's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaParikh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/aparikh0111"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=aparikh0111&amp;layout=wide&show_retweet=off&show_reply=off" alt="github-readme-twitter"></a></p>
+<p><a href="https://twitter.com/aparikh0111"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=aparikh0111&amp;layout=normal&show_reply=off" alt="github-readme-twitter" width="350"></a></p>
