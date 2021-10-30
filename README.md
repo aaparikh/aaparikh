@@ -20,7 +20,7 @@
   <li><h4>👯 I’m looking to collaborate on projects that solve real-world problems</h4></li>
   <li><h4>💬 Ask me about anything you want to. I will try to help you to best of my ability</h4></li>
   <li><h4>😄 Pronouns: he/him/his</h4></li>
-  <li><h4>📖 <b>Fun fact</b>: <i>The longest English word is 189,819 letters long</i></h4></li>
+  <li><h4>📖 <b>Fun fact</b>: <i>The inventor of the Pringles can is now buried in one.</i></h4></li>
 </ul>
 
 <table>
