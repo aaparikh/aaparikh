@@ -30,9 +30,9 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AtharvaParikh&show_icons=true&theme=blue-green" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=aaparikh&show_icons=true&theme=blue-green" alt="GitHub Stats">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaParikh&theme=blue-green" alt="Atharva's Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaparikh&theme=blue-green" alt="Atharva's Top Languages">
     </td>
     <td><a href="https://twitter.com/aaparikh_"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=atharvaaparikh&amp;layout=normal&show_reply=off" alt="github-readme-twitter" width="350"></td>
   </tr>
