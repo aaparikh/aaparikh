@@ -10,7 +10,6 @@
   <a href="https://www.twitter.com/aaparikh_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
   <a href="https://www.linkedin.com/in/atharvaparikh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
   <a href="https://auth.geeksforgeeks.org/user/atharvaparikh07/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height=30></a>
-  <a href="https://leetcode.com/ap07/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height=30></a>
   <a href="https://www.kaggle.com/atharvaparikh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=30></a>
   <a href="mailto:aptahrairkvha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 </p>
