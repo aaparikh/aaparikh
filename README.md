@@ -13,14 +13,14 @@
   <a href="https://www.kaggle.com/atharvaparikh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=30></a>
   <a href="mailto:aptahrairkvha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 </p>
-<ul>
+<!-- <ul>
   <li><h4>💻 Currently working on - Question Answering systems</h4></li>
   <li><h4>🌱 Currently Practicing DSA</h4></li>
   <li><h4>👯 I’m looking to collaborate on projects that solve real-world problems</h4></li>
   <li><h4>💬 Ask me about anything you want to. I will try to help you to best of my ability</h4></li>
   <li><h4>😄 Pronouns: he/him/his</h4></li>
   <li><h4>📖 <b>Fun fact</b>: <i>The inventor of the Pringles can is now buried in one.</i></h4></li>
-</ul>
+</ul> -->
 
 <table>
   <tr>
