@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Atharva Parikh</h1>
 
-<p align="center"><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></p>
+<p align="center"><a href="https://peerlist.io/aaparikh" ><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></a></p>
 <h2 align="center">Upskilling | Open for opportunities</h2>
 <p align="center">
   <a href="https://www.twitter.com/aaparikh_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
