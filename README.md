@@ -2,7 +2,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Atharva Parikh</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="10px"> I am Atharva Parikh</h1>
 
 <h4 align="center">👇 Click on image to view profile 👇</h4>
 <p align="center"><a href="https://peerlist.io/aaparikh" ><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></a></p>
