@@ -3,7 +3,7 @@
 <!-- Here are some ideas to get you started: -->
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="40px"> I am Atharva Parikh</h1>
-<h4 align="center"><i>👇🏻 Click on profile to see repository of resume and references👇🏻</i></h4>
+<h4 align="center"><i>👇🏻 Click on photo to see repository of resume and references👇🏻</i></h4>
 <p align="center"><a href="https://github.com/aaparikh/resume" ><img src="https://github.com/AtharvaParikh/AtharvaParikh/blob/main/github1.png" height="auto" width="200" style="border-radius:50%"></a></p>
 
 <h2 align="center">Upskilling | Open for opportunities</h2>
