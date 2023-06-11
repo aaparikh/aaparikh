@@ -25,7 +25,11 @@
   <li><h4>📖 <b>Fun fact</b>: <i>The inventor of the Pringles can is now buried in one.</i></h4></li>
 </ul> -->
 
-<table>
+<h3 align="center">GitHub Stats</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aaparikh&show_icons=true&theme=blue-green" alt="GitHub Stats"></div>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaparikh&theme=blue-green" alt="Atharva's Top Languages"></div>
+<!-- <table>
   <tr>
     <th><h3>GitHub Stats</h3></th>
     <th><h3>Latest Tweets</h2></th>
@@ -38,4 +42,4 @@
     </td>
     <td><a href="https://twitter.com/aaparikh_"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=aaparikh_&amp;layout=normal&show_reply=off" alt="github-readme-twitter" width="350"></td>
   </tr>
-</table>
+</table> -->
