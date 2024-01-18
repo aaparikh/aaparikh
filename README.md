@@ -24,8 +24,9 @@
   <li><h4>😄 Pronouns: he/him/his</h4></li>
   <li><h4>📖 <b>Fun fact</b>: <i>The inventor of the Pringles can is now buried in one.</i></h4></li>
 </ul> -->
-
+<!--
 <h3 align="center">GitHub Stats</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aaparikh&show_icons=true&theme=blue-green" alt="GitHub Stats"></div>
+-->
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaparikh&theme=blue-green" alt="Atharva's Top Languages"></div>
